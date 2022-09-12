@@ -4,8 +4,6 @@ es poco tiempo pero si termino
 
 ahora se esta aprendiando con git
 
-Experimento 1
-
-Experimento 2
-
 Master 1
+
+Master 2
